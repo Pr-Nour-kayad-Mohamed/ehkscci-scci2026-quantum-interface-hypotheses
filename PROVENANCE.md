@@ -34,3 +34,18 @@ repository:
 
 ```text
 ehkscci-catalyst-scci2026-archive-v1
+
+## Publication Zenodo
+
+La version exploratoire `v1.0.0` a été publiée sur Zenodo.
+
+DOI : https://doi.org/10.5281/zenodo.24494020
+
+Version GitHub associée :  
+https://github.com/Pr-Nour-kayad-Mohamed/ehkscci-scci2026-quantum-interface-hypotheses/releases/tag/v1.0.0
+
+La publication Zenodo archive une version figée du dépôt, incluant le code,
+les tests, la documentation, les métadonnées et le rapport JSON. Elle ne
+constitue pas une validation physique de SCCI-2026, de Google Willow, d’un
+processeur de 105 qubits, d’une interface quantique hybride, de l’unitarité,
+de la suppression du bruit ou de la fidélité des portes quantiques.

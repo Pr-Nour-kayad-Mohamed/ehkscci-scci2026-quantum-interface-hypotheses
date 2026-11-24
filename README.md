@@ -1,4 +1,18 @@
 # SCCI-2026 Quantum Interface Hypotheses
+## Version archivée
+
+Cette version exploratoire est archivée sur Zenodo :
+
+DOI : https://doi.org/10.5281/zenodo.24494020
+
+Version GitHub associée :  
+https://github.com/Pr-Nour-kayad-Mohamed/ehkscci-scci2026-quantum-interface-hypotheses/releases/tag/v1.0.0
+
+Le dépôt contient un calculateur exploratoire de la conséquence numérique
+d’une convention de modélisation déclarée explicitement. Il ne valide pas
+Google Willow, un processeur de 105 qubits, SCCI-2026, une interface
+quantique hybride, l’unitarité, la suppression du bruit ou la fidélité des
+portes quantiques.
 
 This repository contains exploratory research hypotheses and modelling
 conventions concerning possible conformal interface models, hybrid
