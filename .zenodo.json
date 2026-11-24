@@ -22,13 +22,13 @@
       "identifier": "https://github.com/Pr-Nour-kayad-Mohamed/ehkscci-scci2026-quantum-interface-hypotheses",
       "relation": "isSupplementTo",
       "resource_type": "software"
-    }
+    },
     {
       "identifier": "https://doi.org/10.5281/zenodo.24494020",
       "relation": "isIdenticalTo",
       "resource_type": "software"
     }
   ],
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "upload_type": "software"
 }
