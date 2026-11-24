@@ -1,0 +1,29 @@
+{
+  "title": "Exploratory SCCI-2026 quantum-interface convention calculator",
+  "description": "<p>This repository contains an exploratory calculator for the numerical consequence of an explicitly declared SCCI-2026 quantum-interface modelling convention. It evaluates the value of Delta_Phi implied by the convention 10^(-6 / Delta_Phi) = 1 / log10(105^49).</p><p>The repository includes a Python implementation, unit tests, documentation of definitions, assumptions, derivation, and limitations, and a machine-readable JSON report.</p><p>This work does not validate Google Willow, any 105-qubit processor, SCCI-2026, a hybrid quantum interface, unitarity, noise suppression, quantum gate fidelity, or any physical claim. The calculated value is a numerical consequence of the declared convention, not a validated physical constant or critical threshold.</p>",
+  "creators": [
+    {
+      "name": "Pr-Nour-kayad-Mohamed"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "SCCI-2026",
+    "quantum interface",
+    "exploratory modelling",
+    "convention",
+    "Delta Phi",
+    "quantum computing",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Pr-Nour-kayad-Mohamed/ehkscci-scci2026-quantum-interface-hypotheses",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "version": "v1.0.0",
+  "upload_type": "software"
+}
