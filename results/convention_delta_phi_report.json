@@ -1,0 +1,30 @@
+{
+  "model": "SCCI-2026 quantum interface hypothesis",
+  "status": "exploratory convention; not a physical validation",
+  "inputs": {
+    "num_physical_qubits": 105,
+    "surface_code_side_length": 7,
+    "surface_code_area": 49,
+    "time_ratio_exponent": 6.0
+  },
+  "intermediate_values": {
+    "log10_num_physical_qubits": 2.0211892990699383,
+    "inner_log_argument": 99.03827565442697,
+    "convention_left_hand_side": 0.01009710632977181,
+    "convention_right_hand_side": 0.01009710632977181,
+    "absolute_residual": 0.0
+  },
+  "result": {
+    "delta_phi": 3.0063086330189743
+  },
+  "interpretation": {
+    "delta_phi_is_physical_constant": false,
+    "delta_phi_is_validated_critical_value": false,
+    "delta_phi_validates_willow": false,
+    "delta_phi_stabilises_105_qubits": false,
+    "delta_phi_implies_unitarity": false,
+    "delta_phi_implies_noise_suppression": false,
+    "delta_phi_implies_gate_fidelity_improvement": false
+  },
+  "limitation": "This calculation evaluates only the numerical consequence of an explicitly declared ad hoc convention. It does not validate SCCI-2026, Google Willow, any 105-qubit processor, a hybrid quantum interface, unitarity, noise suppression, or quantum gate fidelity."
+}
